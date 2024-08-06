@@ -1,1 +1,0 @@
-This is a game using redux syntax(reducers, state, and actions) from codecademy.
